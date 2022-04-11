@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucas8485
-- 👀 I’m interested in C#/C/C++/x86 Assembly
-- 🌱 I’m currently learning Qt
+- 👀 I’m interested in C#/C/C++/x86 Assembly/Java/Unity
+- 🌱 I’m currently learning C++ Template Meta-Programming and data structures
 - 📫 How to reach me https://www.yydk77.cn or QQ:1443937075
 
 <!---
